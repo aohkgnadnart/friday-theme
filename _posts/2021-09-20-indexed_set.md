@@ -5,7 +5,9 @@ tags:
   - CP
   - CP indexed_set
 ---
+
 <!--more-->
+
 ## Cú pháp các hàm
 ```cpp
 #include <bits/stdc++.h>
