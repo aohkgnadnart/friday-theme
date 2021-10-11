@@ -1,5 +1,5 @@
 ---
-title:  Problem cf.div3.744.B: Shifting Sort
+title:  'cf.div3.744.B: Shifting Sort'
 tags:
   - data structure
   - cp
