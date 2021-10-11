@@ -1,49 +1,16 @@
 ---
-title:  indexed_set
+title:  Problem cf.div3.744.B: Shifting Sort
 tags:
   - data structure
   - cp
   - indexed_set
 ---
 
+Cho một mảng số nguyên. Hãy sắp xếp lại mảng. Được sử dụng thao tác sau không quá n lần: chọn 1 đoạn [l,r] của mảng, dịch sang trái k vị trí. Ví dụ 2, 5, 3 dịch sang trái 1 đơn vị sẽ là 5, 3, 2. Xuất ra các thao tác đã thực hiện để thu được mảng không giảm.
+
 <!--more-->
 
-## Cú pháp các hàm
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-#include <ext/pb_ds/assoc_container.hpp>
-using namespace __gnu_pbds;
-typedef tree<int,null_type,less<int>,rb_tree_tag,tree_order_statistics_node_update> indexed_set;
-
-#define debug(x) cerr << #x << " = " << x << endl;
-#define int long long
-
-main(){
-//    freopen("input.txt", "r", stdin);
-    ios_base::sync_with_stdio(0);cin.tie(0);
-    indexed_set s;
-    s.insert(1);
-    s.insert(5);
-    cout << *s.find_by_order(0) << endl; // 1
-    cout << *s.find_by_order(1) << endl; // 5
-    cout << *s.find_by_order(3) << endl; // 0
-    cout << s.order_of_key(1) << endl; // 0
-    cout << s.order_of_key(5) << endl; // 1
-    cout << s.order_of_key(0) << endl; // 0
-    cout << s.order_of_key(3) << endl; // 1
-    cout << s.order_of_key(10) << endl; // 2
-}
-```
-
-## Bài tập vận dụng
-
-### cf.div3.744.b
-
-Đề bài: Cho một mảng số nguyên. Hãy sắp xếp lại mảng. Được sử dụng thao tác sau không quá n lần: chọn 1 đoạn [l,r] của mảng, dịch sang trái k vị trí. Ví dụ 2, 5, 3 dịch sang trái 1 đơn vị sẽ là 5, 3, 2. Xuất ra các thao tác đã thực hiện để thu được mảng không giảm.
-
-Showcode: O(nlogn)
+Code: O(nlogn)
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -86,4 +53,31 @@ main(){
 }
 ```
 
+## indexed_set
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
+#include <ext/pb_ds/assoc_container.hpp>
+using namespace __gnu_pbds;
+typedef tree<int,null_type,less<int>,rb_tree_tag,tree_order_statistics_node_update> indexed_set;
+
+#define debug(x) cerr << #x << " = " << x << endl;
+#define int long long
+
+main(){
+//    freopen("input.txt", "r", stdin);
+    ios_base::sync_with_stdio(0);cin.tie(0);
+    indexed_set s;
+    s.insert(1);
+    s.insert(5);
+    cout << *s.find_by_order(0) << endl; // 1
+    cout << *s.find_by_order(1) << endl; // 5
+    cout << *s.find_by_order(3) << endl; // 0
+    cout << s.order_of_key(1) << endl; // 0
+    cout << s.order_of_key(5) << endl; // 1
+    cout << s.order_of_key(0) << endl; // 0
+    cout << s.order_of_key(3) << endl; // 1
+    cout << s.order_of_key(10) << endl; // 2
+}
+```
