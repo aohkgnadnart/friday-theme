@@ -1,9 +1,9 @@
 ---
 title:  indexed_set
 tags:
-  - _data_structure
-  - _cp
-  - _indexed_set
+  - data structure
+  - cp
+  - indexed_set
 ---
 
 <!--more-->
