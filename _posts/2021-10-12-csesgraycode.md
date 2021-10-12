@@ -80,5 +80,45 @@ int main(){
 - Bài toàn tìm đường đi Hammilton là bài toán NP-hard cho nên ta phải nghĩ cách khác để ko TLE
 - Nhận thấy với giá trị n, đồ thị có 2^n đỉnh. mỗi đỉnh sẽ nối với đúng n đỉnh. Ta dfs tham lam luôn chọn dfs tới đỉnh nhỏ nhất có thể. (SAI với n > 5)
 
+**Code sai**
 
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+#define debug(x) cerr << #x << " = " << x << endl;
+#define int long long
+
+main(){
+//    freopen("input.txt", "r", stdin);
+    ios_base::sync_with_stdio(0);cin.tie(0);
+    int n;
+    cin >> n;
+    int m = (1 << n);
+    vector<int> adj[m];
+    for(int i = 0; i < m; i++){
+        for(int j = 0; j < n; j++){
+            int z = (i xor (1 << j));
+            adj[i].push_back(z);
+        }
+        sort(adj[i].begin(), adj[i].end());
+    }
+    vector<bool> visitted(m, 0);
+    vector<int> res;
+    function<void(int)> dfs = [&](int x){
+        visitted[x] = 1;
+        res.push_back(x);
+        for(auto v: adj[x]){
+            if(visitted[v]) continue;
+            dfs(v);
+        }
+    };
+    dfs(0);
+    for(int i = 0; i < m; i++){
+        for(int j = 0; j < n; j++){
+            cout << ((res[i] >> (n - 1 - j))&1);
+        }
+        cout << "\n";
+    }
+}
+```
 
