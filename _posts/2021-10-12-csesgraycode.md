@@ -13,6 +13,8 @@ Nhiệm vụ của bạn là tạo mã Xám cho một độ dài nhất định 
 
 *Nhận xét: Gặp những bài này, cố gắng nháp viết ra được cách đệ quy*
 
+*Submit [tại đây](https://cses.fi/problemset/task/2205/)*
+
 ## Cách giải đúng
 
 ![image](https://user-images.githubusercontent.com/83690404/136924864-133193ea-f466-49e0-9f8e-c1960365a90c.png)
