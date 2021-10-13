@@ -1,8 +1,8 @@
 ---
 title:  'Problem: Shifting Sort'
 tags:
-  - data structure
   - cp
+  - data structure
   - indexed_set
 ---
 
