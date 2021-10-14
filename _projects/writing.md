@@ -90,6 +90,959 @@ https://user-images.githubusercontent.com/83690404/133911677-878f24f0-2bd3-4477-
 ## HTML Content
 ## HTML Content
 ## HTML Content
+1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.
 ## HTML Content
 ## HTML Content
 ## HTML Content
@@ -101,3 +1054,40 @@ https://user-images.githubusercontent.com/83690404/133911677-878f24f0-2bd3-4477-
 ## HTML Content
 ## HTML Content
 ## HTML Content
+1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.1. `_pages/index.md` - this is the default home page.
+2. `_includes/components/intro.md` - this chunk is reused between the top of the homepage and the top of the about page.
+3. `_pages/about.md` reuses the intro and adds a bit more content about yourself.
+4. `_posts` is the default Jekyll collection of blog posts. Each post has a list of tags. These lists are combined into a tag cloud on the post list page.
+5. `_projects` is a directory of project pages. These are not organised into a collection. Each page can hold a description or documentation about a hobby or open-source project.
