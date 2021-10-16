@@ -1,6 +1,7 @@
 ---
 title: 'Problem: Bubble Strike'
 tags:
+  - cp
   - combinatorics
 
 ---
@@ -19,7 +20,7 @@ Tính số bản đồ bạn cần xem để xác suất chiến thắng trò ch
 - Tiếp đó ta tính xác suất bản đồ được hệ thống chọn là bản đồ đã xem.
   - 3 bản đồ đã xem thì **chắc chăn** hệ thống sẽ chọn trúng bản đồ bạn đã xem.
   - 2 bản đồ đã xem: thì bạn sẽ chọn bản đồ chưa xem để loại bỏ, như vậy cũng **chắc chắn** hệ thống chọn trúng bản đồ đã xem.
-  - 1 bản đồ đã xem: bạn sẽ loại bỏ 1 bản đồ chưa xem. Bây giờ sẽ có 2 TH: (1 / 3 * 1 / 2 + 1 / 3 = 1 / 2)
+  - 1 bản đồ đã xem: bạn sẽ loại bỏ 1 bản đồ chưa xem. Bây giờ sẽ có 2 TH: `(1 / 3 * 1 / 2 + 1 / 3 = 1 / 2)`
     - Đối thủ của bạn loại bỏ 1 bản đồ chưa xem giống bạn(XS th này là 1 / 3): thì lúc này còn lại 2 bản đồ 1 chưa xem, 1 đã xem; Xs hệ thống chọn trúng bản đồ đã xem là 1 / 2; Như vậy xs chiến thắng của bạn game này là 1 / 3 * 1 / 2 = 1 / 6.
     - Đối thủ của bạn loại bỏ 1 bản đồ chưa xem khác bạn(XS th này là 1 / 3).
 
