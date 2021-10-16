@@ -8,6 +8,8 @@ Môt game có 2 người chơi(bạn và đối thủ). Có n bản đồ. Hệ 
 Sau đó từ các bản đồ không được chọn, hệ thống chọn ra 1 bản đồ cho game đó. Bạn chiến thắng game đó khi bạn đã xem bản đồ của game đó. 
 Tính số bản đồ bạn cần xem để xác suất chiến thắng trò chơi >= P.
 
+<!--more-->
+
 **Hướng dẫn:** 
 - Đầu tiên, ta tính xác suất xảy ra cho từng trường hợp có thể. Các trường hợp có thể xảy ra đó là:
   - 3 bản đồ hệ thống chọn, bạn đều đã xem
