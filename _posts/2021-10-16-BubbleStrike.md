@@ -6,7 +6,7 @@ tags:
 ---
 Môt game có 2 người chơi(bạn và đối thủ). Có n bản đồ. Hệ thống chọn ra 3 bản đồ từ n bản đồ. Mỗi người chơi được phép chọn 1 bản đồ để loại(2 người chơi chọn độc lập, tức là có thể trùng).
 Sau đó từ các bản đồ không được chọn, hệ thống chọn ra 1 bản đồ cho game đó. Bạn chiến thắng game đó khi bạn đã xem bản đồ của game đó. 
-Tính số bản đồ bạn cần xem để xác suất chiến thắng trò chơi >= P.
+Tính số bản đồ bạn cần xem để xác suất chiến thắng trò chơi >= P. Đối thủ của bạn không biết bạn đã xem bản đồ nào.
 
 <!--more-->
 
