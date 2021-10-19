@@ -11,6 +11,8 @@ Xuất ra n - 1 cạnh của cây. Dễ dàng chứng minh được luôn tồn 
 
 <!--more-->
 
+*Submit [tại đây](https://codeforces.com/contest/1586/problem/B)*
+
 **Hướng dẫn:**
 
 - Đầu tiên ta nháp thử trường hợp trong m yêu câu có chứa 3 yêu cầu sau, `1 3 7`, `1 7 3`, `3 1 7`. Để giải quyết yêu cầu này ta buộc phải dùng 1 đỉnh khác nối với cả 3 đỉnh này.
