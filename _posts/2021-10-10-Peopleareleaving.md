@@ -20,7 +20,7 @@ Cho n người đang đứng ở vị trí từ 1 tới n. Bạn phải thực h
 
 **Code**
 
-- Độ phưc tạp **O(nlogn)**
+- Độ phức tạp **O(nlogn)**
 
 ```cpp
 #include <bits/stdc++.h>
