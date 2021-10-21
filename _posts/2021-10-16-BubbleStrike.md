@@ -5,13 +5,13 @@ tags:
   - combinatorics
 
 ---
-Môt game có 2 người chơi(bạn và đối thủ). Có n bản đồ. Hệ thống chọn ra 3 bản đồ từ n bản đồ. Mỗi người chơi được phép chọn 1 bản đồ để loại(2 người chơi chọn độc lập, tức là có thể trùng).
+Môt game có 2 người chơi (bạn và đối thủ). Có n bản đồ. Hệ thống chọn ra 3 bản đồ từ n bản đồ. Mỗi người chơi được phép chọn 1 bản đồ để loại (2 người chơi chọn độc lập, tức là có thể trùng).
 Sau đó từ các bản đồ không được chọn, hệ thống chọn ra 1 bản đồ cho game đó. Bạn chiến thắng game đó khi bạn đã xem bản đồ của game đó. 
 Tính số bản đồ bạn cần xem để xác suất chiến thắng trò chơi >= P. Đối thủ của bạn không biết bạn đã xem bản đồ nào.
 
 <!--more-->
 
-**Hướng dẫn:** 
+**Hướng dẫn** 
 - Đầu tiên, ta tính xác suất xảy ra cho từng trường hợp có thể. Các trường hợp có thể xảy ra đó là:
   - 3 bản đồ hệ thống chọn, bạn đều đã xem
   - 2 bản đồ bạn đã xem.
@@ -24,7 +24,9 @@ Tính số bản đồ bạn cần xem để xác suất chiến thắng trò ch
     - Đối thủ của bạn loại bỏ 1 bản đồ chưa xem giống bạn(XS th này là 1 / 3): thì lúc này còn lại 2 bản đồ 1 chưa xem, 1 đã xem; Xs hệ thống chọn trúng bản đồ đã xem là 1 / 2; Như vậy xs chiến thắng của bạn game này là 1 / 3 * 1 / 2 = 1 / 6.
     - Đối thủ của bạn loại bỏ 1 bản đồ chưa xem khác bạn(XS th này là 1 / 3).
 
-**Code:**
+**Code**
+
+- Độ phức tạp **O(n)**
 
 ```cpp
 #include <bits/stdc++.h>
