@@ -11,7 +11,7 @@ Tính số lượng **tối đa** imposter  trong game.
 
 <!--more-->
 
-**Hướng giải:**
+**Hướng giải**
 
 - Quy bài toán về dạng đồ thị 2n đỉnh. với người chơi i tương ứng sẽ có 2 đỉnh i và i + n, đại diện cho 2 trường hợp là crewmate và imposter.
 - Như vậy sẽ hình thành đồ thị với các thành phần liên thông. Trong đó nếu tồn tại 1 thành phần liên thông mà có đỉnh i và i + n liên thông với nhau thì suy ra không tồn tại game như vậy, xuất -1.
@@ -23,7 +23,9 @@ Trong hình:
 - đỉnh 2 - 3 là 1 thành phần liên thông, có 0 imposter
 - đỉnh 4 là 1 thành phần liên thông, có 1 imposter.
 
-**Code:**
+**Code**
+
+- Độ phức tạp **O(n + m)**
 
 ```cpp
 #include <bits/stdc++.h>
