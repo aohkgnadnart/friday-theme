@@ -9,7 +9,10 @@ Cho cây gồm n đỉnh. Hỏi nếu nối đỉnh n + 1 vào đỉnh i, thì �
 
 <!--more-->
 
-## Thuật sai 1
+*Submit: [tại đây](https://codeforces.com/gym/102694/problem/B)*
+
+**Sai 1**
+
 - Tìm tâm của cây, sau đó dfs từ tâm, thu được khoảng cách từ các đỉnh đến tâm.
 - Chọn ra 2 đỉnh có khoảng cách đến tâm xa nhất, cộng 2 khoảng cách đó lại chính là đường kính.(SAI)
 
@@ -17,7 +20,8 @@ Cho cây gồm n đỉnh. Hỏi nếu nối đỉnh n + 1 vào đỉnh i, thì �
 
 Ta thấy d[1] = 2, d[2] = 2. là 2 khoảng cách xa nhất đến tâm. Nhưng đường kính của cây chỉ là 3.
 
-## Thuật sai 2
+**Sai 2**
+
 - Gọi path là đường dẫn có độ dài là đường kính của cây.
 - dfs từ 1 đỉnh bất kì để tìm điểm mút của path.
 - dfs từ điểm mút để tìm khoẳng cách của các đỉnh đến đỉnh mút. 
@@ -27,7 +31,8 @@ Ta thấy d[1] = 2, d[2] = 2. là 2 khoảng cách xa nhất đến tâm. Nhưng
 
 Ta thấy d[2] = 2. Nhưng nếu đỉnh n + 1 được nối vào đỉnh 2 thì đường kính sẽ tăng thêm 1. Rõ ràng cách tính được trình bày trong thuật trên là sai.
 
-## Thuật đúng
+**Hướng dẫn**
+
 - Gọi path là đường dẫn có độ dài là đường kính của cây.
 - dfs từ 1 đỉnh bất kì để tìm điểm mút của path.
 - dfs từ điểm mút để tìm khoẳng cách của các đỉnh đến đỉnh mút. 
@@ -36,6 +41,9 @@ Ta thấy d[2] = 2. Nhưng nếu đỉnh n + 1 được nối vào đỉnh 2 th�
 - Đường kính mới = max(diameter, max(d[i] + 1, e[i] + 1))
 
 **Code**
+
+- Độ phức tạp **O(n)**
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -75,4 +83,3 @@ main(){
     }
 }
 ```
-*Submit: [tại đây](https://codeforces.com/gym/102694/problem/B)*
