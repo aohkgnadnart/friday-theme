@@ -10,7 +10,12 @@ Cho một mảng số nguyên. Hãy sắp xếp lại mảng. Được sử dụ
 
 <!--more-->
 
-Code: O(nlogn)
+**Hướng dẫn**
+
+**Code**
+
+- Độ phức tạp **O(nlogn)**
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
