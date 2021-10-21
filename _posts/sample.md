@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Problem: '
 tags:
   - cp
   - 
@@ -8,10 +8,15 @@ tags:
 
 <!--more-->
 
-*Submit [tại đây]()
+*Submit [tại đây]()*
 
-**Hướng dẫn:**
+**Hướng dẫn**
 
 
-**Code:**
+**Code**
 
+- Độ phưc tạp **O()**
+
+```cpp
+
+```
