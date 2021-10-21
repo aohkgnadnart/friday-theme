@@ -12,7 +12,12 @@ Cho n cặp số (x, y). Tính số cách chọn ra 3 cặp số (x, y) trong n 
 
 *Submit [tại đây](https://codeforces.com/contest/1598/problem/D)*
 
-## Cách giải đúng
+**Sai**
+
+- Đó chính là `kêt quả = số bộ 3 có x khác + số bộ 3 có y khác - số bộ 3 có x khác và y khác`
+- Việc tính số bộ 3 có x khác và y khác rất khó khăn.
+
+**Hướng dẫn**
 
 - Ta sử dụng phần bù - một phương pháp phổ biến trong toán tổ hợp, tức là `kết quả = tất cả - không hợp lệ`
 - Số cách chọn 3 cặp số (x, y) bất kì từ n cặp số là: `n * (n - 1) * (n - 2) / 6`
@@ -23,7 +28,9 @@ Cho n cặp số (x, y). Tính số cách chọn ra 3 cặp số (x, y) trong n 
 - Ta thấy trường hợp không hợp lệ chỉ có 1 dạng, đó là `xa == xb != xc && ya != yb == yc`
 - Như vậy với mỗi cặp số (xa, yb) ta cần chọn thêm 1 cặp số (xb, yb) có `xa == xb` và 1 cặp số (xc, yc) có `yb == yc`. viếc chọn thêm 2 cặp này là độc lập, nên dễ dàng tính được.
 
-### Code đúng
+**Code**
+
+- Độ phức tạp **O(n)**
 
 ```cpp
 #include <bits/stdc++.h>
@@ -54,8 +61,3 @@ main(){
     }
 }
 ```
-
-## Cách giải sai
-
-- Đó chính là `kêt quả = số bộ 3 có x khác + số bộ 3 có y khác - số bộ 3 có x khác và y khác`
-- Việc tính số bộ 3 có x khác và y khác rất khó khăn.
