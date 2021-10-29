@@ -68,20 +68,21 @@ signed main(){
 
 **Code**
 
-- Độ phức tạp **O(n + max_xor * max_xor)**
+- Độ phức tạp **O(n + max_value * max_xor)**
 
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
 #define debug(x) cerr << #x << " = " << x << endl;
 using ll = long long;
-const int max_xor = (1 << 13);
-vector<vector<int>> a(max_xor, vector<int>(1, 0));
-vector<int> r(max_xor, max_xor - 1);
-bool mark[max_xor];
+const int MAX_XOR = (1 << 13);
+const int MAX_VALUE = 5000;
+vector<vector<int>> a(MAX_VALUE + 1, vector<int>(1, 0));
+vector<int> r(MAX_XOR, MAX_VALUE);
+bool mark[MAX_XOR];
 
 int main(){
-    // freopen("input.txt", "r", stdin);
+    //  freopen("input.txt", "r", stdin);
     ios_base::sync_with_stdio(0);cin.tie(0);
     int n;
     cin >> n;
@@ -100,11 +101,11 @@ int main(){
     }
     int k = 0;
     mark[0] = 1;
-    for(int i = 0; i < max_xor; i++){
+    for(int i = 0; i < MAX_XOR; i++){
         k += mark[i];
     }
     cout << k << "\n";
-    for(int i = 0; i < max_xor; i++){
+    for(int i = 0; i < MAX_XOR; i++){
         if(mark[i]) cout << i << " ";
     }
 }
