@@ -6,6 +6,7 @@ tags:
 ---
 Cho chuỗi s gồm 2 kí tự 'a' và(hoặc) 'b'. Mỗi thao tác bạn được phép đổi 1 ký tự 'a' thành 'b' và ngược lại. 
 Hãy sử dụng số thao tác tối thiểu để làm cho chuỗi s có số substring(ab) bằng số substring (ba).
+Xuất ra chuỗi s sau cùng.
 
 <!--more-->
 
