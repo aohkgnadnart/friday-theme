@@ -22,8 +22,8 @@ Cho chuỗi `s1` có độ dài `3`, `s2` có độ dài `<=1e5`. Tìm số `s2.
 #include <bits/stdc++.h>
 
 using namespace std;
-
 #define int long long
+
 
 /*
  * Complete the 'getSubsequenceCount' function below.
@@ -35,35 +35,21 @@ using namespace std;
  */
 
 int getSubsequenceCount(string a, string b) {
-    vector<int> adj[3];
-    for(int i = 0; i < b.length(); i++){
-        for(int j = 0; j < 3; j++){
-            if(b[i] == a[j]){
-                adj[j].push_back(i);
-            }
-        }
-    }
-    vector<vector<int>> dp(3, vector<int> (b.length(), 0));
-    dp[0][adj[0][0]] = 1;
-    for(int i = 1; i < adj[0].size(); i++){
-        dp[0][adj[0][i]] = dp[0][adj[0][i - 1]] + 1;
-        for(int j = adj[0][i - 1] + 1; j < adj[0][i]; j++){
-            dp[0][j] = dp[0][adj[0][i - 1]];
-        }
-    }
-    for(int j = adj[0].back() + 1; j < b.length(); j++){
-        dp[0][j] = dp[0][adj[0].back()];
+    int n = b.length();
+    vector<vector<int>> dp(3, vector<int>(n, 0));
+    dp[0][0] = (b[0] == a[0]);
+    for(int i = 1; i < n; i++){
+        dp[0][i] = dp[0][i - 1] + (b[i] == a[0]);
     }
     for(int i = 1; i < 3; i++){
-        for(int j = 1; j < b.length(); j++){
-            if(b[j] == a[i]) dp[i][j] = dp[i][j - 1] + dp[i - 1][j - 1];
-            else dp[i][j] = dp[i][j - 1];
+        for(int j = 1; j < n; j++){
+            if(b[j] != a[i]) dp[i][j] = dp[i][j - 1];
+            else dp[i][j] = dp[i][j - 1] + dp[i - 1][j - 1];
         }
     }
-    return dp[2][(int)b.length() - 1];
+    return dp[2][n - 1];
 }
-// HRW
-// HERHRWS
+
 signed main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
