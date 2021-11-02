@@ -8,6 +8,10 @@ tags:
 ---
 Cho cây có n `(1 ≤ n ≤ 1e5)` đỉnh đánh số từ 0 tới n - 1, cha của các đỉnh và trọng số của các đỉnh. Tìm được đi có tổng trọng số lớn nhất.
 Biết `root = 0`, `parent[0] = -1`
+
+![Screenshot 2021-11-02 101706](https://user-images.githubusercontent.com/83690404/139783508-40aba718-91f5-4761-8946-5f93adada1c7.png)
+
+
 <!--more-->
 
 *Submit [tại đây](https://www.hackerrank.com/test/5k8aftrdekm/questions/eftieqri7m5)*
