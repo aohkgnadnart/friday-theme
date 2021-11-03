@@ -3,7 +3,7 @@ title: 'Problem: String Subsequences'
 tags:
   - cp
   - dp
-  - string
+  - strings
 ---
 Cho chuỗi `s1` có độ dài `3`, `s2` có độ dài `<=1e5`. Tìm số `s2.subsequence(s1)`.
 
