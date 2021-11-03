@@ -20,7 +20,7 @@ pp
 
 **Code**
 
-- Độ phưc tạp **O()**
+- Độ phưc tạp **O(n)**
 
 ```cpp
 #include <bits/stdc++.h>
