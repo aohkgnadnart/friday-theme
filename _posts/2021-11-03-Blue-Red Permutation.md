@@ -9,7 +9,7 @@ Nếu phần tử có màu xanh, được giảm giá trị. Hỏi sau cùng có
 
 <!--more-->
 
-*Submit [tại đây]()*
+*Submit [tại đây](https://codeforces.com/contest/1607/problem/D)*
 
 **Hướng dẫn**
 
