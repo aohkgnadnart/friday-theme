@@ -7,8 +7,11 @@ tags:
 ---
 Cho một chuỗi và mẫu. Đếm số vị trí mẫu xuất hiện trong chuỗi.
 ```
+input:
 saippuakauppias
 pp
+output:
+2
 ```
 
 <!--more-->
