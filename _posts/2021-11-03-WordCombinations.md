@@ -4,6 +4,7 @@ tags:
   - cp
   - strings
   - trie
+  - dp
 ---
 Cho 1 chuỗi s và n chuỗi. Hỏi có bao nhiêu cách tạo nên chuỗi s từ các chuỗi trong n chuỗi. Kết quả được lấy dư cho `1e9 + 7`.
 
