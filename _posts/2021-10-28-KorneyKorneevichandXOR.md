@@ -3,7 +3,7 @@ title: 'Problem: Korney Korneevich and XOR'
 tags:
   - cp
   - dp
-  - binary searh
+  - binary search
   - brute force
 ---
 
