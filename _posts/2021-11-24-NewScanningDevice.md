@@ -5,7 +5,7 @@ tags:
   - interative
   - binary search
 ---
-
+Cho lưới 1e9 x 1e9 có các ô đơn vị 1 x 1. Có một hình chữ nhật gồm các ô đơn vị được tô màu. Hình chữ nhật này có các cạnh song song với cạnh của lưới. Bạn được phép hỏi số ô tô màu trong hình chữ nhật (a, b) (c, d), 2 tọa này lần lượt là tọa độ góc trên bên trái và góc dưới bên phải. Số lần hỏi không quá 66. Hãy tìm ra (a, b) (c, d) của hình chữ nhật được tô màu.
 
 <!--more-->
 
