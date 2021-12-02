@@ -120,12 +120,12 @@ signed main(){
 ```
 
 #### Table of contents
-[Hướng dẫn 1](#paragraph1)
-    [Code](#subparagraph11)
-[Hướng dẫn 2](#paragraph2)
-    [Code](#subparagraph21)
-[Hướng dẫn 3](#paragraph3)
-    [Code](#subparagraph31)
+1. [Hướng dẫn 1](#paragraph1)
+    1. [Code](#subparagraph11)
+2. [Hướng dẫn 2](#paragraph2)
+    1. [Code](#subparagraph21)
+3. [Hướng dẫn 3](#paragraph3)
+    4. [Code](#subparagraph31)
 
 
 ## Some paragraph <a name="paragraph1"></a>
