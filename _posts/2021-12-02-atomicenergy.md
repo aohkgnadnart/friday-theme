@@ -5,8 +5,8 @@ tags:
   - pending
   - dp
 ---
-Cho mảng a gồm n số nguyên dương. q truy vấn, mỗi truy vấn cho một số k. 
-Yêu cầu tính f(k) biết nếu k <= n thì f(k) = a[n], ngược lại f(k) = min(f(x) + f(k - x)), x thuộc [1, k).
+Cho mảng `a` gồm `n` số nguyên dương. `q` truy vấn, mỗi truy vấn cho một số `k`. 
+Yêu cầu tính `f(k)` biết nếu `k <= n` thì `f(k) = a[n]`, ngược lại `f(k) = min(f(x) + f(k - x))`, `x` thuộc `[1, k)`.
 
 **Ràng buộc**
 ```
