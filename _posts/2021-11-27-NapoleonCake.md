@@ -125,7 +125,7 @@ signed main(){
 2. [Hướng dẫn 2](#paragraph2)
     1. [Code](#subparagraph21)
 3. [Hướng dẫn 3](#paragraph3)
-    4. [Code](#subparagraph31)
+    1. [Code](#subparagraph31)
 
 
 ## Some paragraph <a name="paragraph1"></a>
