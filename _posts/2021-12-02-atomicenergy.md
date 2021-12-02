@@ -9,15 +9,12 @@ Cho mảng a gồm n số nguyên dương. q truy vấn, mỗi truy vấn cho m�
 Yêu cầu tính f(k) biết nếu k <= n thì f(k) = a[n], ngược lại f(k) = min(f(x) + f(k - x)), x thuộc [1, k].
 
 **Ràng buộc**
-
+```
 n <= 100
-
 1 <= a[i] <= 1e9
-
 q <= 1e5
-
 1 <= k <= 1e9
-
+```
 **Input**
 
 ```
