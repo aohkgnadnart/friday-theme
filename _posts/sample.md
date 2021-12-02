@@ -6,6 +6,20 @@ tags:
 ---
 
 
+**Ràng buộc**
+
+**Input**
+
+```
+
+```
+
+**Output**
+
+```
+
+```
+
 <!--more-->
 
 *Submit [tại đây]()*
