@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            Blog             # Site title
 name:             Trần Đăng Khoa             # Your name
-avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+avatar:           /theme/img/dptk.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
