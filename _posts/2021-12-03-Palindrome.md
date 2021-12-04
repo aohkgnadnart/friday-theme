@@ -145,13 +145,3 @@ signed main(){
     cout << (res? "YES\n": "NO\n");
 }
 ```
-
-Bài A + B làm thế này
->! Sử dụng 
->! toán tử 
->! + 
->! 
->! >! Kết quả sẽ là 
->! >! A + B
->! 
->! Thế là xong bài
