@@ -1,3 +1,4 @@
+[don-kien-nghinew.pdf](https://github.com/aohkgnadnart/aohkgnadnart.github.io/files/7653493/don-kien-nghinew.pdf)
 ---
 title: Writing Content for Friday Theme
 ---
