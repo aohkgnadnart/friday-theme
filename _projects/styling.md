@@ -6,6 +6,8 @@ title: Change the Appearance of Friday Theme
 
 The main stylesheet is `theme\css\site.scss`. This is the one that pulls everything together and creates the final, built output. So if you want to import other SCSS, add it here.
 
+[don-kien-nghinew.pdf](https://github.com/aohkgnadnart/aohkgnadnart.github.io/files/7653507/don-kien-nghinew.pdf)
+
 This theme does not use its own SCSS or CSS apart from a few layout tweaks in `theme/_sass/_theme.css`.
 
 You can modify the appearance by customising Bootstrap directly by overriding its SCSS variables. There are some notes in the top of `theme\_sass\_variables.scss` about how to do this.
