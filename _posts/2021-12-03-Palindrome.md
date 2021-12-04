@@ -4,6 +4,7 @@ tags:
   - cp
   - palindrome
   - hashing
+  - dp
 ---
 Một xâu `S` chỉ chứa kí tự latin in thường.
 Nếu có thể chặt xâu `S` thành `3` xâu con không rỗng và cả `3` xâu con đều là xâu đối xứng thì xuất `YES`, ngược lại xuất `NO`.
