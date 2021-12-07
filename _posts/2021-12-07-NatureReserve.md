@@ -6,9 +6,9 @@ tags:
   - real values
   - geometry
 ---
-Cho tọa độ n điểm trên mặt phẳng Oxy. Tìm đường tròn có bán kính nhỏ nhất chứa n điểm này, và đường tròn này có đúng 1 giao điểm với đường thẳng y = 0.
+Cho tọa độ `n` điểm trên mặt phẳng Oxy. Tìm đường tròn có bán kính nhỏ nhất chứa `n` điểm này, và đường tròn này có đúng `1` giao điểm với đường thẳng `y = 0`.
 
-Xuất ra bán kính (sai số không quá 1e-6). Nếu không tồn tại đường tròn phù hợp yêu cầu, xuất -1.
+Xuất ra bán kính (sai số không quá `1e-6`). Nếu không tồn tại đường tròn phù hợp yêu cầu, xuất `-1`.
 
 **Ràng buộc**
 
