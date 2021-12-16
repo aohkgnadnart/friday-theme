@@ -54,7 +54,7 @@ n = 0 kết thúc chương trình
 
 **Code**
 
-- Độ phưc tạp **O()**
+- Độ phưc tạp **O(nlogn)**
 
 ```cpp
 #include <bits/stdc++.h>
