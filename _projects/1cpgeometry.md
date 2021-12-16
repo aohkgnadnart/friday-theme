@@ -228,10 +228,14 @@ class point {
     }
 };
 ```
-
+## Cross Product
 ## Point location
-Problem: Trong mặt phẳng Oxy, cho 3 điểm A, B, C. Kiểm tra xem điểm C nằm bên trái, bên phải, hay nằm trên đường thẳng AB.
-
-### Cross Product
-hgfg
+## Line segment intersection
+## Point distance from a line
+## Point inside a polygon
+## Polygon area
+## Pick’s theorem
+## Euclidean distance
+## Manhattan distance
+## Convex hull problem
 
