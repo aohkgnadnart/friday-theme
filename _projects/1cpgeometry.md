@@ -229,5 +229,9 @@ class point {
 };
 ```
 
-## Giải thích chi tiết từng phần
+## Point location
+Problem: Trong mặt phẳng Oxy, cho 3 điểm A, B, C. Kiểm tra xem điểm C nằm bên trái, bên phải, hay nằm trên đường thẳng AB.
+
+### Cross Product
+hgfg
 
