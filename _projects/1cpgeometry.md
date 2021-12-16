@@ -1,5 +1,5 @@
 ---
-title: Competitive Progamming: Geometry
+title: 'Competitive Progamming: Geometry'
 ---
 ## template
 - Mình dành 3 ngày để xây dựng theo cách hiểu của mình, dựa trên lý thuyết cuốn [sách](https://cses.fi/book/book.pdf) của pllk. Đã vượt qua rất nhiều bộ test của nhiều nguồn, và được mình soi rất kĩ, tuy vậy mình không giám khẳng định là không có sai sót. Với template này, bạn có thể cân gần hết các bài hình cơ bản rồi, mình nghĩ vậy :)
