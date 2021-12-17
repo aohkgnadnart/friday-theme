@@ -8,6 +8,32 @@ Cho chuỗi s gồm 2 kí tự 'a' và(hoặc) 'b'. Mỗi thao tác bạn đư�
 Hãy sử dụng số thao tác tối thiểu để làm cho chuỗi s có số substring(ab) bằng số substring (ba).
 Xuất ra chuỗi s sau cùng.
 
+**Ràng buộc**
+
+```
+1≤t≤1000
+1≤|s|≤100, consisting only of characters a and/or b
+```
+
+**Input**
+
+```
+4
+b
+aabbbabaa
+abbb
+abbaab
+```
+
+**Output**
+
+```
+b
+aabbbabaa
+bbbb
+abbaaa
+```
+
 <!--more-->
 
 *Submit [tại đây](https://codeforces.com/contest/1606/problem/A)*
