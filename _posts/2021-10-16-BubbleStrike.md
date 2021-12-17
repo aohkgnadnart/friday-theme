@@ -5,11 +5,33 @@ tags:
   - combinatorics
 
 ---
-Môt game có 2 người chơi (bạn và đối thủ). Có n bản đồ. Hệ thống chọn ra 3 bản đồ từ n bản đồ. Mỗi người chơi được phép chọn 1 bản đồ để loại (2 người chơi chọn độc lập, tức là có thể trùng).
-Sau đó từ các bản đồ không được chọn, hệ thống chọn ra 1 bản đồ cho game đó. Bạn chiến thắng game đó khi bạn đã xem bản đồ của game đó. 
-Tính số bản đồ bạn cần xem để xác suất chiến thắng trò chơi >= P. Đối thủ của bạn không biết bạn đã xem bản đồ nào.
+Môt game có `2` người chơi (bạn và đối thủ). Có `n` bản đồ. Hệ thống chọn ra `3` bản đồ từ `n` bản đồ. Mỗi người chơi được phép chọn `1` bản đồ để loại (`2` người chơi chọn độc lập, tức là có thể trùng).
+Sau đó từ các bản đồ không được chọn, hệ thống chọn ra `1` bản đồ cho game đó. Bạn chiến thắng game đó khi bạn đã xem bản đồ của game đó. 
+Tính số bản đồ bạn cần xem để xác suất chiến thắng trò chơi `>= P`. Đối thủ của bạn không biết bạn đã xem bản đồ nào.
+
+**Ràng buộc**
+
+```
+3 ≤ N ≤  1e3
+0 ≤ P ≤ 1
+
+```
+
+**Input**
+
+```
+7 1.0000
+```
+
+**Output**
+
+```
+6
+```
 
 <!--more-->
+
+*Submit [tại đây](https://codeforces.com/problemset/problem/1599/C)*
 
 **Hướng dẫn** 
 - Đầu tiên, ta tính xác suất xảy ra cho từng trường hợp có thể. Các trường hợp có thể xảy ra đó là:
