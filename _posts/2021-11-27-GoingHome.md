@@ -4,10 +4,30 @@ tags:
   - cp
   - brute force
   - math
+  - dirichlet
 ---
-Cho mảng a có n phần tử `(n <= 2e5)`. Tìm 4 vị trí khác nhau `x, y, z, t` sao cho `ax + ay = az + at`. 
+Cho mảng `a` có `n` phần tử. Tìm `4` vị trí khác nhau `x, y, z, t` sao cho `ax + ay = az + at`. 
 
-`1 <= a[i] <= 25e5`.
+**Ràng buộc**
+
+```
+4≤n≤200000
+1≤ai≤2.5e6
+```
+
+**Input**
+
+```
+6
+2 1 5 2 7 4
+```
+
+**Output**
+
+```
+YES
+2 3 1 6 
+```
 
 <!--more-->
 
@@ -15,7 +35,7 @@ Cho mảng a có n phần tử `(n <= 2e5)`. Tìm 4 vị trí khác nhau `x, y, 
 
 **Hướng dẫn**
 
-- Áp dụng **nguyên lí Diritle** trên tập S, nhận thấy giá trị S trong thuộc [2, 5e6]. Như vậy nếu trong 5e6 + 1 lần duyệt a[i] + a[j] thì sẽ có giá trị S lặp lại.
+- Áp dụng **nguyên lí Diritlet** trên tập S, nhận thấy giá trị S trong thuộc [2, 5e6]. Như vậy nếu trong 5e6 + 1 lần duyệt a[i] + a[j] thì sẽ có giá trị S lặp lại.
 - Nhưng nếu mảng a có 2 phần tử cùng giá trị thì cần gấp đôi số lần duyệt mới xuất hiện S lặp lại mà hợp lệ.
 - Nhưng nếu mảng a có 3 phần tử cùng giá trị thì cần gập ba lần duyệt mới xuất hiện S lặp lại mà hợp lệ
 - Nhưng nếu mảng a có 4 phần tử cùng giá trị thì... kết liễu nó luôn vì đó chính là giá trị hợp lệ cần tìm.
