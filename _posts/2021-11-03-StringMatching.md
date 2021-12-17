@@ -6,11 +6,23 @@ tags:
   - hashing
 ---
 Cho một chuỗi và mẫu. Đếm số vị trí mẫu xuất hiện trong chuỗi.
+
+**Ràng buộc**
+
 ```
-input:
+1≤n,m≤1e6
+```
+
+**Input**
+
+```
 saippuakauppias
 pp
-output:
+```
+
+**Output**
+
+```
 2
 ```
 
