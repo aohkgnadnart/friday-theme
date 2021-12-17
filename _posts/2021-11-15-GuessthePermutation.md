@@ -6,9 +6,42 @@ tags:
   - binary search
   - combinatorics
 ---
-Cho mảng gồm n phần tử tăng dần từ 1 tới n. Có các phân đoạn [i, j - 1] và [j, k] đã bị đảo ngược lại(i < j < k và j - i > 1). 
-Bạn được phép hỏi xem đoạn [l, r] có bao nhiêu cặp nghịch thế. Số lần hỏi nhiều nhất là 40.
-Tìm i, j, k.
+Cho mảng gồm `n` phần tử tăng dần từ `1` tới `n`. Có các phân đoạn `[i, j - 1]` và `[j, k]` đã bị đảo ngược lại(`i < j < k` và `j - i > 1`). 
+Bạn được phép hỏi xem đoạn `[l, r]` có bao nhiêu cặp nghịch thế. Số lần hỏi nhiều nhất là `40`.
+Tìm `i, j, k`.
+
+**Ràng buộc**
+
+```
+4≤n≤1e9
+```
+
+**Input**
+
+```
+2 
+5 
+4 
+3 
+3 
+5 
+2 
+2 
+1 
+```
+
+**Output**
+
+```
+? 1 5
+? 2 5
+? 3 5
+! 1 3 5
+? 1 5
+? 2 5
+? 3 5
+! 2 4 5
+```
 
 <!--more-->
 
