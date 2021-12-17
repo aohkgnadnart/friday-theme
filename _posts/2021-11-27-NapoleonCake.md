@@ -6,8 +6,38 @@ tags:
   - dp
   - fenwick
 ---
-Cho mảng a gồm n phần tử và một mảng b gồm n phần tử gồm các phần tử ban đầu đều là 0. Giá trị a[i] cho biết các phần tử từ [a[i] - i + 1, i] trong mảng b được thay đổi thành 1.
-Xuất ra mảng b sau cùng.
+Cho mảng `a` gồm `n` phần tử và một mảng `b` gồm `n` phần tử gồm các phần tử ban đầu đều là `0`. Giá trị a[i] cho biết các phần tử từ `[a[i] - i + 1, i]` trong mảng `b` được thay đổi thành `1`.
+Xuất ra mảng `b` sau cùng.
+
+**Ràng buộc**
+
+```
+1≤t≤20000
+1≤n≤2e5
+0≤ai≤n
+It is guaranteed that the sum of n over all test cases does not exceed 2e5.
+```
+
+**Input**
+
+```
+3
+6
+0 3 0 0 1 3
+10
+0 0 0 1 0 5 0 0 0 2
+3
+0 0 0
+```
+
+**Output**
+
+```
+1 1 0 1 1 1 
+0 1 1 1 1 1 0 0 1 1 
+0 0 0 
+```
+
 <!--more-->
 
 *Submit [tại đây](https://codeforces.com/contest/1501/problem/B)*
