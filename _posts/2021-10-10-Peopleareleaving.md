@@ -5,10 +5,44 @@ tags:
   - dsu
   - path-compression
 ---
-Cho n người đang đứng ở vị trí từ 1 tới n. Bạn phải thực hiện các truy vấn thuộc 2 loại:
+Cho `n` người đang đứng ở vị trí từ `1` tới `n`. Bạn phải thực hiện các truy vấn thuộc `2` loại:
 
-- `- x` Người ở vị trí x rời đi.
-- `? x` Người gần nhất bên phải vị trí x.
+- `- x` Người ở vị trí `x` rời đi.
+- `? x` Người gần nhất bên phải vị trí `x`.
+
+**Ràng buộc**
+
+```
+1≤n,m≤106
+1≤x≤n
+```
+
+**Input**
+
+```
+5 10
+? 1
+- 3
+? 3
+- 2
+? 1
+? 2
+- 4
+? 3
+- 5
+? 3
+```
+
+**Output**
+
+```
+1
+4
+1
+4
+5
+-1
+```
 
 <!--more-->
 
