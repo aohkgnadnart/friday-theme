@@ -3,6 +3,7 @@ title: 'Problem: Paprika and Permutation'
 tags:
   - cp
   - greedy
+  - permutation
 ---
 Cho mảng `a` gồm `n` số nguyên dương. Bạn được phép thực hiện thao tác sau với số lần tùy thích: đặt `a[i] = a[i] % x`, `x` là số nguyên dương mà bạn chọn. 
 Hỏi có thể thu được mảng `a` gồm `n` phần tử là hoán vị từ `[1, n]`.
