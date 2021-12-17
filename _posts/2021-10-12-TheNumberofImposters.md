@@ -6,10 +6,57 @@ tags:
   - dfs and similar
   - connected component
 ---
-Cho n người chơi cùng chơi game. mỗi người sẽ là imposter hoặc crewmate. imposter là người luôn nói dối, cewmate là người luôn nói thật. cho m nhận xét có dạng (i, j, c) ví dụ: 1 2 imposter, tức là người chơi 1 nói người chơi 2 là imposter, như vậy nếu người chơi 2 đúng là imposter thì người chơi 1 là crewmate, và ngược lại.
+Cho `n` người chơi cùng chơi game. mỗi người sẽ là `imposter` hoặc `crewmate`. `imposter` là người luôn nói dối, cewmate là người luôn nói thật. cho `m` nhận xét có dạng `(i, j, c)` ví dụ: `1 2 imposter`, tức là người chơi `1` nói người chơi `2` là `imposter`, như vậy nếu người chơi `2` đúng là `imposter` thì người chơi `1` là `crewmate`, và ngược lại.
 Tính số lượng **tối đa** imposter  trong game.
 
+**Ràng buộc**
+
+```
+1≤t≤1e4
+1≤n≤2e5
+0≤m≤5e5
+the structure "i j c" where i and j are two distinct integers and c is a string (1≤i,j≤n; i≠j; c is either imposter or crewmate
+There can be multiple comments for the same pair of (i,j).
+It is guaranteed that the sum of all n does not exceed 2e5 and the sum of all m does not exceed 5e5.
+```
+
+**Input**
+
+```
+5
+3 2
+1 2 imposter
+2 3 crewmate
+5 4
+1 3 crewmate
+2 5 crewmate
+2 4 imposter
+3 4 imposter
+2 2
+1 2 imposter
+2 1 crewmate
+3 5
+1 2 imposter
+1 2 imposter
+3 2 crewmate
+3 2 crewmate
+1 3 imposter
+5 0
+```
+
+**Output**
+
+```
+2
+4
+-1
+2
+5
+```
+
 <!--more-->
+
+*Submit [tại đây](https://codeforces.com/problemset/problem/1594/D)*
 
 **Hướng giải**
 
