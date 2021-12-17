@@ -2,7 +2,6 @@
 title: 'Problem: The least round way'
 tags:
   - cp
-  - pending
   - dp
 ---
 Có một ma trận vuông `n × n` , bao gồm các số nguyên không âm. 
