@@ -6,6 +6,27 @@ tags:
 ---
 Cho số x và mảng n phần tử. Hỏi có bao nhiêu cách tạo nên x từ các phần tử của mảng. Biết mỗi phần tử trong mảng có thể sử dụng nhiều lần.
 
+**Ràng buộc**
+
+```
+1 ≤ X ≤ 1000000
+2 ≤ N ≤ 9
+```
+
+**Input**
+
+```
+6
+3
+2 7 3
+```
+
+**Output**
+
+```
+2
+```
+
 <!--more-->
 
 *Submit [tại đây](https://oj.vnoi.info/problem/icpc21_beta_e)*
