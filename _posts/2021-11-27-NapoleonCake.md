@@ -148,31 +148,3 @@ signed main(){
     }
 }
 ```
-
-#### Table of contents
-1. [Hướng dẫn 1](#paragraph1)
-    1. [Code](#subparagraph11)
-2. [Hướng dẫn 2](#paragraph2)
-    1. [Code](#subparagraph21)
-3. [Hướng dẫn 3](#paragraph3)
-    1. [Code](#subparagraph31)
-
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph11"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
-### Sub paragraph <a name="subparagraph21"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph3"></a>
-The second paragraph text
-
-### Sub paragraph <a name="subparagraph31"></a>
-This is a sub paragraph, formatted in heading 3 style
-
