@@ -6,8 +6,48 @@ tags:
 
 ---
 
-Tìm một cây có n đỉnh, thỏa mãn m (m < n) yêu cầu. Mỗi yêu cầu gồm 3 cố a, b, c, hiểu là trên đường đi đơn giản từ đỉnh a tới đỉnh c không chứa đỉnh b. 
-Xuất ra n - 1 cạnh của cây. Dễ dàng chứng minh được luôn tồn tại đáp án.
+Tìm một cây có n đỉnh, thỏa mãn `m` `(m < n)` yêu cầu. Mỗi yêu cầu gồm `3` cố `a, b, c`, hiểu là trên đường đi đơn giản từ đỉnh `a` tới đỉnh `c` không chứa đỉnh `b`. 
+Xuất ra `n - 1` cạnh của cây. Dễ dàng chứng minh được luôn tồn tại đáp án.
+
+**Ràng buộc**
+
+```
+1≤t≤1e4
+3≤n≤105
+1≤m<n
+1≤ai,bi,ci≤n, a, b, c are distinct
+It is guaranteed that the sum of n across all test cases will not exceed 105.
+```
+
+**Input**
+
+```
+2
+7 4
+1 2 3
+3 4 5
+5 6 7
+6 5 4
+5 3
+1 2 3
+2 3 4
+3 4 5
+```
+
+**Output**
+
+```
+1 2
+1 3
+3 5
+3 4
+2 7
+7 6
+5 1
+1 3
+3 2
+2 4
+```
 
 <!--more-->
 
