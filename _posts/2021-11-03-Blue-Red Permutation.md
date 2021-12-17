@@ -7,6 +7,58 @@ tags:
 Cho mảng n phần tử. Nếu phần tử có màu đỏ,được tăng giá trị. 
 Nếu phần tử có màu xanh, được giảm giá trị. Hỏi sau cùng có thể thu được, mảng hoán vị của n hay không?
 
+**Ràng buộc**
+
+```
+1≤t≤1e4
+1≤n≤2⋅1e5
+−1e9≤ai≤1e9
+It is guaranteed that the sum of n over all input sets does not exceed 2e5.
+```
+
+**Input**
+
+```
+8
+4
+1 2 5 2
+BRBR
+2
+1 1
+BB
+5
+3 1 4 2 5
+RBRRB
+5
+3 1 3 1 3
+RBRRB
+5
+5 1 5 1 5
+RBRRB
+4
+2 2 2 2
+BRBR
+2
+1 -2
+BR
+4
+-2 -1 4 0
+RRRR
+```
+
+**Output**
+
+```
+YES
+NO
+YES
+YES
+NO
+YES
+YES
+YES
+```
+
 <!--more-->
 
 *Submit [tại đây](https://codeforces.com/contest/1607/problem/D)*
