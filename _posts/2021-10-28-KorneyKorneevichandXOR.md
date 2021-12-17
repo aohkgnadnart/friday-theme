@@ -9,6 +9,27 @@ tags:
 
 Cho mảng a gồm n `(n <= 1e6)` số nguyên `(0 <= a[i] <= 5000)`. Xuất ra tất cả giá trị xor của tất cả mảng con(subsequence) tăng dần trong mảng.
 
+**Ràng buộc**
+
+```
+1≤n≤1e6
+0≤ai≤5000
+```
+
+**Input**
+
+```
+4
+4 2 2 4
+```
+
+**Output**
+
+```
+4
+0 2 4 6 
+```
+
 <!--more-->
 
 *Submit [tại đây](https://codeforces.com/contest/1582/problem/F2)*
