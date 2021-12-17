@@ -7,6 +7,24 @@ tags:
 ---
 Cho chuỗi s. Tìm tất cả độ dài của các chuỗi mà nó vừa là tiền tố, vừa là hậu tố của chuỗi s.
 
+**Ràng buộc**
+
+```
+1≤n≤1e6
+```
+
+**Input**
+
+```
+abcababcab
+```
+
+**Output**
+
+```
+2 5
+```
+
 <!--more-->
 
 *Submit [tại đây](https://cses.fi/problemset/task/1732)*
