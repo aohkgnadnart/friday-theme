@@ -3,10 +3,43 @@ title: 'Problem: Training Session'
 tags:
   - cp
   - combinatorics
-
 ---
 
-Cho n cặp số (x, y). Tính số cách chọn ra 3 cặp số (x, y) trong n cặp số, sao cho giá trị x của chúng khác nhau từng đôi **hoặc** giá trị y của chúng khác nhau từng đôi.
+Cho `n` cặp số `(x, y)`. Tính số cách chọn ra `3` cặp số `(x, y)` trong `n` cặp số, sao cho giá trị `x` của chúng khác nhau từng đôi **hoặc** giá trị `y` của chúng khác nhau từng đôi.
+
+**Ràng buộc**
+
+```
+1≤t≤50000
+3≤n≤2e5
+1≤ai,bi≤n
+It is guaranteed that there are no two problems that have the same topic and difficulty at the same time.
+The sum of n over all testcases doesn't exceed 2⋅105.
+```
+
+**Input**
+
+```
+2
+4
+2 4
+3 4
+2 1
+1 3
+5
+1 5
+2 4
+3 3
+4 2
+5 1
+```
+
+**Output**
+
+```
+3
+10
+```
 
 <!--more-->
 
