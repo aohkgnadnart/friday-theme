@@ -2,7 +2,6 @@
 title: 'Problem: X-Magic Pair'
 tags:
   - cp
-  - pending
   - recursion
 ---
 Bạn được cung cấp một cặp số nguyên `(a,b)` và một số nguyên `x`.
