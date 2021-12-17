@@ -5,7 +5,29 @@ tag:
     - tree
 ---
 
-Cho cây gồm n đỉnh. Hỏi nếu nối đỉnh n + 1 vào đỉnh i, thì đường kính của cây lúc này là bao nhiêu. Xuất ra kết qua cho tất cả i.
+Cho cây gồm `n` đỉnh. Hỏi nếu nối đỉnh `n + 1` vào đỉnh `i`, thì đường kính của cây lúc này là bao nhiêu. Xuất ra kết qua cho tất cả `i`.
+
+**Ràng buộc**
+
+```
+1≤n≤3e5
+```
+
+**Input**
+
+```
+3
+3 2
+2 1
+```
+
+**Output**
+
+```
+3
+2
+3
+```
 
 <!--more-->
 
