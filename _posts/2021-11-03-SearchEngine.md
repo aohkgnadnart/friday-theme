@@ -8,13 +8,15 @@ tags:
 Cho mảng n phần tử, mỗi phần tử gồm 1 chuỗi và 1 trọng số. Cho q truy vấn, mỗi truy vấn là một chuỗi x. 
 Tìm chuỗi y trong mảng a sao cho x là tiền tố của y và trọng số của y là lớn nhất có thể.
 
-`1 ≤ n, weight, len(s), len(t) ≤ 1e6`
+**Ràng buộc**
 
-`1 ≤ q ≤ 1e5`
+```
+1 ≤ n, weight, len(s), len(t) ≤ 1e6
+1 ≤ q ≤ 1e5
+total length of all strings in database entries ≤ 1e6
+total length of all query strings ≤ 1e6
+```
 
-`total length of all strings in database entries ≤ 1e6`
-
-`total length of all query strings ≤ 1e6`
 <!--more-->
 
 *Submit [tại đây](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/)*
