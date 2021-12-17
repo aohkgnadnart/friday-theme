@@ -4,7 +4,34 @@ tags:
   - cp
   - constructive algorithms
 ---
-Cho mảng a gồm n `(2 <= n <= 1e5)` số nguyên `(0 < |a[i]| <= 1e4)`. Tìm mảng b có n phần tử `(0 < |b[i]| <= 1e9)` sao cho `tổng của tất cả |b[i]| <= 1e9` và `tổng của tất cả a[i] * b[i]` bằng `0`.
+Cho mảng a gồm n số nguyên. Tìm mảng b có n phần tử `(0 < |b[i]| <= 1e9)` sao cho `tổng của tất cả |b[i]| <= 1e9` và `tổng của tất cả a[i] * b[i]` bằng `0`.
+
+**Ràng buộc**
+
+```
+2 <= n <= 1e5
+0 < |a[i]| <= 1e4
+```
+
+**Input**
+
+```
+3
+2
+5 5
+5
+5 -2 10 -9 4
+7
+1 2 3 4 5 6 7
+```
+
+**Output**
+
+```
+1 -1
+-1 5 1 -1 -1
+-10 2 2 -3 5 -1 -1
+```
 
 <!--more-->
 
