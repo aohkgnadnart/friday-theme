@@ -1,5 +1,5 @@
 ---
-title: 'Problem: '
+title: 'Problem: Crazy Robot'
 tags:
   - cp
   - 2d
