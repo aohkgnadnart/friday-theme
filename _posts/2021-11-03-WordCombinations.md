@@ -8,18 +8,35 @@ tags:
 ---
 Cho 1 chuỗi s và n chuỗi. Hỏi có bao nhiêu cách tạo nên chuỗi s từ các chuỗi trong n chuỗi. Kết quả được lấy dư cho `1e9 + 7`.
 
-`1≤n≤5000` 
+**Ràng buộc**
 
-`1≤k≤1e5`
+```
+1≤n≤5000 
+1≤k≤1e5
+the total length of the words is at most 1e6
+```
 
-`the total length of the words is at most 1e6`
+**Input**
+
+```
+4
+ab
+abab
+c
+cb
+```
+
+**Output**
+
+```
+2
+```
 
 <!--more-->
 
-*Submit [tại đây]()*
+*Submit [tại đây](https://cses.fi/problemset/task/1731)*
 
 **Hướng dẫn**
-
 
 **Code**
 
