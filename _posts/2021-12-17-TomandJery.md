@@ -4,6 +4,7 @@ tags:
   - cp
   - tree
   - dfs and similar
+  - dp
 ---
 Tom và Jerry đang đuổi theo nhau trong một mê cung được hình thành như một cái cây. 
 Cây này có `𝑛` nút. Jerry hiện đang ở nút `𝑥` và có một quả bom do Tom đặt ở đây. 
