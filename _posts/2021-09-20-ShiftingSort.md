@@ -6,9 +6,51 @@ tags:
   - indexed_set
 ---
 
-Cho một mảng số nguyên. Hãy sắp xếp lại mảng. Được sử dụng thao tác sau không quá n lần: chọn 1 đoạn [l,r] của mảng, dịch sang trái k vị trí. Ví dụ 2, 5, 3 dịch sang trái 1 đơn vị sẽ là 5, 3, 2. Xuất ra các thao tác đã thực hiện để thu được mảng không giảm.
+Cho một mảng số nguyên. Hãy sắp xếp lại mảng. Được sử dụng thao tác sau không quá `n` lần: chọn `1` đoạn `[l,r]` của mảng, dịch sang trái `k` vị trí. Ví dụ `2, 5, 3` dịch sang trái `1` đơn vị sẽ là `5, 3, 2`. Xuất ra các thao tác đã thực hiện để thu được mảng không giảm.
+
+**Ràng buộc**
+
+```
+1≤t≤1000
+2≤n≤50
+−1e9≤ai≤1e9
+```
+
+**Input**
+
+```
+4
+2
+2 1
+3
+1 2 1
+4
+2 4 1 3
+5
+2 5 1 4 3
+```
+
+**Output**
+
+```
+1
+1 2 1
+1
+1 3 2
+3
+2 4 1
+2 3 1
+1 3 2
+4
+2 4 2
+1 5 3
+1 2 1
+1 3 1
+```
 
 <!--more-->
+
+*Submit [tại đây](https://codeforces.com/problemset/problem/1579/B)*
 
 **Hướng dẫn**
 
