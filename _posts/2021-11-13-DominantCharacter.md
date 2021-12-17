@@ -10,6 +10,34 @@ Cho chuỗi s có độ dài n được tạo nên từ 3 kí tự 'a', 'b', 'c'
 - số kí tự 'a' trong substring lớn hơn số kí tự 'b'
 - số kí tự 'a' trong substring lớn hơn số kí tự 'c' 
 
+**Ràng buộc**
+
+```
+1≤t≤105
+2≤n≤106
+It is guaranteed that the sum of n over all test cases does not exceed 106.
+```
+
+**Input**
+
+```
+3
+2
+aa
+5
+cbabb
+8
+cacabccc
+```
+
+**Output**
+
+```
+2
+-1
+3
+```
+
 <!--more-->
 
 *Submit [tại đây](https://codeforces.com/contest/1605/problem/C)*
