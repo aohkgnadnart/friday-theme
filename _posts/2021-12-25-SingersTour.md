@@ -1,5 +1,5 @@
 ---
-title: 'Problem: Singers' Tour'
+title: "Problem: Singers' Tour"
 tags:
   - cp
   - pending
