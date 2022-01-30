@@ -6,7 +6,7 @@ tags:
   - dp
   - digit
 ---
-Đếm số cặp số nguyên dương (x, y) sao cho x + 2y = N.
+Đếm số cặp số nguyên dương (x, y) sao cho x + 2y = N.$ 2 ^ {53} - 1 $ 
 
 **Ràng buộc**
 
